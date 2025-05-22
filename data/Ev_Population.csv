@@ -1,0 +1,108 @@
+VEHICLE TYPE;FUEL TYPE;MODEL;VARIANT DETAILS;LISTED PRICE ($AUD);FAST CHARGE TIME (minutes);ANCAP RATING;RANGE (km);ENERGY CONSUMPTION;;SUBURB
+Large SUV;BEV;Audi e-tron;2022 Audi e-tron 55 Auto quattro MY23;;85 mins (5%-80% charge, 50kW charger);5 star, 2019;459;23.2;;Alexandria
+Large Car;BEV;Audi e-tron GT;2024 Audi e-tron GT Auto e-quattro MY24;181784;23 mins (5%-80% charge, 270kW charger);Unrated;540;19.2;;Camperdown
+Medium SUV;BEV;Audi Q4;2024 Audi Q4 e-tron 45 Auto MY25;84900;28 mins (10-80% charge, 175kW charger);Unrated;524;17.4;;Millers Point
+Large Car;BEV;BMW 5 Series BEV;2024 BMW i5 eDrive40 M Sport G60 Auto;155900;30 mins (10%-80% charge, 205kW charger);5 star, 2023;550;16.5;;Chippendale
+Medium Car;BEV;BMW i4;2024 BMW i4 eDrive35 M Sport G26 Auto;85900;31 mins (10%-80% charge, 205kW charger);4 star, 2022;520;22.2;;Chippendale
+Large Car;BEV;BMW i7;2024 BMW i7 xDrive60 M Sport G70 Auto AWD;306900;34 mins (10%-80% charge, 195kW charger);Unrated;625;22.2;;Chippendale
+Large SUV;BEV;BMW iX;2024 BMW iX xDrive40 Sport I20 Auto AWD;136900;31 mins (10%-80% charge, 150kW charger);5 star, 2021;420;22.5;;DarlingHurst
+Small SUV;BEV;BMW iX1;2024 BMW iX1 eDrive20 xLine U11 Auto;78900;29 mins (10%-80% charge, 130kW charger);5 star, 2022;464;15.7;;DarlingHurst
+Small SUV;BEV;BMW iX2;2024 BMW iX2 eDrive20 M Sport U10 Auto;82900;29 mins (10%-80% charge, 130kW charger);Unrated;427;17.1;;DarlingHurst
+Medium SUV;BEV;BMW iX3;2024 BMW iX3 M Sport G08 Auto;89100;450 mins (0%-100% charge, 11kW charger);Unrated;440;21.6;;Glebe
+Medium SUV;BEV;BYD Atto 3;2024 BYD ATTO 3 Standard Auto;44499;29 mins (30%-80% charge, 150kW charger);5 star, 2022;345;16;;Glebe
+Small Car;BEV;BYD Dolphin;2024 BYD Dolphin Dynamic Auto;36890;29 mins (30%-80% charge, 150kW charger);5 star, 2023;410;21.6;;Glebe
+Medium Car;BEV;BYD Seal;2024 BYD Seal Dynamic Auto;49888;26 mins (30%-80% charge, 150kW charger);5 star, 2023;510;13.8;;Glebe
+Small SUV;BEV;Chery Omoda 5 BEV;2024 Chery OMODA E5 BX Auto MY24;42990;28 mins (30%-80% charge, 80kW charger);5 star, 2022;460;13;;Glebe
+Small Car;BEV;CUPRA Born;2024 CUPRA Born Auto MY24;59990;;5 star, 2022;511;17;;Eveleigh
+Small Car;BEV;Fiat 500e;2023 Fiat 500e La Prima Auto MY23;52500;35 mins (0%-80% charge, 85kW charger);4 star, 2021;311;14.4;;Eveleigh
+Large SUV;BEV;Ford Mustang Mach-E;2023 Ford Mustang Mach-E Select Auto MY23.75;64990;32 mins (10%-80% charge, 150kW charger);5 star, 2021;470;17.8;;Newtown
+Small SUV;BEV;Genesis GV60;2024 Genesis GV60 AWD Auto AWD MY24;103384;18 mins (10%-80% charge, 350kW charger);5 star, 2022;470;18.8;;Newtown
+Medium SUV;BEV;Genesis GV70 BEV;2023 Genesis GV70 Perfomance Auto AWD MY23;125858;18 mins (10%-80% charge, 350kW charger);5 star, 2021;445;19.9;;Newtown
+Small Car;BEV;GWM Ora;2024 GWM Ora Standard Range Auto;35990*;41 mins (10%-80% charge, 80kW charger);5 star, 2022;310;16.7;;Newtown
+Medium SUV;BEV;Hyundai Ioniq 5;2024 Hyundai IONIQ 5 Auto 2WD MY25;69800;18 mins (10%-80% charge, 800V charger);5 star, 2021;451;17.9;;Newtown
+Medium Car;BEV;Hyundai Ioniq 6;2024 Hyundai IONIQ 6 Auto 2WD MY24;66500;18 mins (10%-80% charge, 800V charger);5 star, 2022;614;14.3;;Newtown
+Small SUV;BEV;Hyundai Kona BEV;2024 Hyundai Kona Electric Elite Auto 2WD MY25;54000;47 mins (10%-80% charge, 100kW charger);4 star, 2023;;;;Newtown
+Small SUV;BEV;Jeep Avenger;2024 Jeep Avenger Summit Auto FWD MY24;60990;24 mins (20%-80% charge, 100kW charger);3 star, 2024;390;15.8;;Newtown
+Medium SUV;BEV;Kia EV5;2024 Kia EV5 Air Standard Range Auto MY25;;36 mins (10%-80% charge, 350kW charger);5 star, 2024;400;18.2;;Newtown
+Large SUV;BEV;Kia EV6;2024 Kia EV6 Air Auto MY24;72590;18 mins (10%-80% charge, 800V charger);5 star, 2022;528;16.5;;Paddington
+Large SUV;BEV;Kia EV9;2024 Kia EV9 Air Auto MY24;97000;20 mins (10%-80% charge, 350kW charger);5 star, 2023;443;19.5;;Paddington
+Small SUV;BEV;Kia Niro BEV;2024 Kia Niro EV S Auto 2WD MY25;66590;45 mins (10%-80% charge, 100kW charger);5 star, 2022;460;16.2;;Paddington
+Van;BEV;LDV eDeliver7;2024 LDV eDeliver 7 SWB Auto;67358*;43 mins (20%-80% charge);Gold (77%);;;;Paddington
+Ute (2WD);BEV;LDV eT60;2024 LDV eT60 Auto MY23 Dual Cab;92990;45 mins (20%-80% charge, 80kW charger);Unrated;330;26.9;;Paddington
+People Mover;BEV;LDV Mifa9;2024 LDV MIFA 9 Mode Auto MY23;104000;36 mins (30%-80% charge, 120kW charger);5 star, 2022;;;;Paddington
+Medium SUV;BEV;Leapmotor C10;2024 Leapmotor C10 Style Auto;45888;30 mins(30%-80% charge);5 star, 2024;477;16.7;;Paddington
+Small SUV;BEV;Lexus UX BEV;2024 Lexus UX UX300e Luxury Auto FWD;80720;80 mins (10%-80% charge);5 star, 2019;560;12.8;;Paddington
+Sports Car;BEV;Lotus Eletre;2024 Lotus Eletre Auto AWD MY24;189990;;Unrated;;;;Paddington
+Large Car;BEV;Lotus Emeya;2024 Lotus Emeya Auto AWD;189990;;Unrated;;;;Paddington
+Small SUV;BEV;Mercedes-Benz EQA;2024 Mercedes-Benz EQA EQA250+ Auto;84900;35 mins (10%-80% charge, 100kW charger);5 star, 2019;578;14.1;;Potts Point
+Medium SUV;BEV;Mercedes-Benz EQB;2024 Mercedes-Benz EQB EQB250+ Auto;89100;35 mins (10%-80% charge, 100kW charger);5 star, 2019;564;14.7;;Potts Point
+Large Car;BEV;Mercedes-Benz EQE;2024 Mercedes-Benz EQE EQE300 Auto Sedan;133600;;5 star, 2022;626;16.3;;Haymarket
+Large SUV;BEV;Mercedes-Benz EQE SUV;2024 Mercedes-Benz EQE EQE300 Auto SUV;134900;;5 star, 2023;606;17.2;;Haymarket
+Large SUV;BEV;Mercedes-Benz EQS SUV;2024 Mercedes-Benz EQS EQS450 Auto 4MATIC SUV;195900;;Unrated;698;19.1;;Ultimo
+People Mover;BEV;Mercedes-Benz EQV;2024 Mercedes-Benz EQV EQV300 Auto;162339;45 mins (10%-80% charge, 110kW charger);Unrated;418;26.3;;Ultimo
+People Mover;BEV;Mercedes-Benz eVito Tourer;2024 Mercedes-Benz eVito Tourer 129 Medium Wheelbase Auto;137515;;Unrated;421;26.2;;Ultimo
+Van;BEV;Mercedes-Benz eVito Van;2024 Mercedes-Benz eVito 112 Medium Wheelbase Auto;98951;;Platinum (90%);;;;Ultimo
+Sports Car;BEV;MG Cyberster;2024 MG Cyberster Auto 4WD MY25;115000;40 mins (10%-80% charge, 150kW charger);Unrated;443;19.1;;Ultimo
+Small Car;BEV;MG MG4;2024 MG MG4 Excite 51 125kW Auto MY24;37990;40 mins (10%-80% charge, 50kW charger);5 star, 2022;405;18.4;;Ultimo
+Small SUV;BEV;MG ZS BEV;2023 MG ZS EV Excite Auto MY23;;54 mins (recharge to 80%, 50kW charger);Unrated;360;17.7;;Ultimo
+Small Car;BEV;MINI Aceman;2024 MINI Aceman E Classic Auto FWD;55990;28 mins (recharge to 80%, 75kW charger);Unrated;300;14.1;;Ultimo
+Small SUV;BEV;MINI Countryman BEV;2024 MINI Countryman E Core Auto;64990;29 mins (recharge to 80%, 130 kW charger);Unrated;422;17.2;;Woolloomooloo
+Small Car;BEV;MINI Hatch BEV;2024 MINI Cooper E Classic Auto;53990;28 mins (recharge to 80%, 50kW charger);Unrated;271;15;;Woolloomooloo
+Small Car;BEV;Nissan Leaf;2024 Nissan LEAF ZE1 Auto MY23;50990;60 mins (20%-80% charge, 50kW charger);5 star, 2018;311;17.1;;Woolloomooloo
+Van;BEV;Peugeot Expert BEV;2024 Peugeot E-Expert Pro Long Auto;79990;45 mins (0%-80% charge, 100kW charger);Unrated;;;;Woolloomooloo
+Van;BEV;Peugeot Partner BEV;2024 Peugeot e-Partner Pro LWB Auto MY24;59990;30 mins (0%-80% charge, 100kW charger);Unrated;258;21.8;;Woolloomooloo
+Medium Car;BEV;Polestar 2;2024 Polestar 2 Standard range Single motor Auto MY24;67400;34 mins (10%-80% charge, 135kW charger);5 star, 2021;625;19.7;;Woolloomooloo
+Large SUV;BEV;Polestar 3;2024 Polestar 3 Long Range Single Motor Auto MY25;116754;30mins (10%-80% charge, 250kW charger);Unrated;;;;Woolloomooloo
+Medium SUV;BEV;Polestar 4;2024 Polestar 4 Long range Single motor Auto MY25;81500;30 mins (10%-80% charge, 200kW charger);Unrated;;;;Woolloomooloo
+Medium SUV;BEV;Porsche Macan BEV;2024 Porsche Macan XAB Auto AWD MY25;128400;21 mins (10%-80% charge, 320kW charger);Unrated;624;17;;SurryHills
+Large Car;BEV;Porsche Taycan;2024 Porsche Taycan Y1A II Auto RWD MY25;174500;18 mins (10%-80% charge, 320kW charger);Unrated;369;28;;SurryHills
+Van;BEV;Renault Kangoo BEV;2024 Renault Kangoo E-Tech L1 EV45 SWB Auto MY24;61990;360 mins (full charge, 7kW charger);Unrated;286;17.5;;SurryHills
+Small SUV;BEV;Renault Megane E-Tech;2024 Renault Megane E-Tech Techno EV60 Auto MY24;54990;35 mins (15%-80% charge, 130kW charger);5 star, 2022;454;15.6;;SurryHills
+Sports Car;BEV;Rolls-Royce Spectre;2024 Rolls-Royce Spectre RR25 Auto AWD MY24;770000;34 mins (10%-80% charge, 195kW charger);Unrated;555;20.5;;SurryHills
+Medium SUV;BEV;Subaru Solterra;2024 Subaru Solterra AWD E1-1 Auto AWD MY24;69990;30 mins (0%-80% charge, 150kW charger);5 star, 2022;485;14.1;;SurryHills
+Medium Car;BEV;Tesla Model 3;2024 Tesla Model 3 Rear-Wheel Drive Auto;54900;15 mins (recharge to 50%, 170kW charger);Unrated;513;13.2;;SurryHills
+Medium SUV;BEV;Tesla Model Y;2024 Tesla Model Y Rear-Wheel Drive Auto;55900;15 mins (recharge to 50%, 170kW charger);5 star, 2022;510;14.6;;SurryHills
+Medium SUV;BEV;Toyota bZ4X;2024 Toyota bZ4X Auto 2WD;66000;40 mins (10%-80% charge);5 star, 2022;535;12.8;;SurryHills
+Small SUV;BEV;Volvo C40;2024 Volvo C40 Recharge Auto MY24;78990;27 mins (10%-80% charge, 200kW charger);5 star, 2022;445;17.5;;Redfern
+Small SUV;BEV;Volvo EX30;2024 Volvo EX30 Single Motor Extended Range Plus Auto MY25;59990;30mins (10%-80% charge, 175kW charger);5 star, 2024;462;17.5;;Redfern
+Small SUV;BEV;Volvo XC40 BEV;2024 Volvo XC40 Recharge Pure Electric Auto MY24;76990;27 mins (10%-80% charge, 200kW charger);5 star, 2018;435;18.3;;Waterloo
+Large Car;HFCEV;Toyota Mirai;Toyota Mirai Auto;;;5 star, 2021;650;0.76;;Waterloo
+Small SUV;PHEV;Alfa Romeo Tonale PHEV;2024 Alfa Romeo Tonale Veloce Plug-In Hybrid Auto MY22;78500;150 mins (full charge, 7.2kW charger);5 star, 2022;61;24.1;;Waterloo
+Medium SUV;PHEV;Audi Q5 PHEV;2024 Audi Q5 55 TFSI e S Line Auto quattro ultra MY24;105984;150 mins (0%-100% charge, 7.2kW charger);Unrated;55;23.8;;Waterloo
+Large SUV;PHEV;Audi Q8 PHEV;2024 Audi Q8 60 TFSI e S line Auto quattro MY25;154284;225 mins (0%-100% charge, 7.4kW charger);Unrated;59;21;;Waterloo
+Large SUV;PHEV;Bentley Bentayga PHEV;2024 Bentley Bentayga Hybrid Auto AWD MY24;395800;;Unrated;;;;Waterloo
+Large Car;PHEV;Bentley Flying Spur PHEV;2024 Bentley Flying Spur Hybrid Auto AWD MY24;479100;;Unrated;;;;Waterloo
+Large Car;PHEV;BMW 5 Series PHEV;2024 BMW M5 G90 Auto M xDrive;259900;195 mins (0%-100% charge, 7.4kW charger);Unrated;;;;Waterloo
+Medium SUV;PHEV;BMW X3 PHEV;2024 BMW X3 30e xDrive G45 Auto 4x4;102500;240 mins (0%-100% charge, 3.7kW charger);Unrated;46;18.3;;Waterloo
+Large SUV;PHEV;BMW X5 PHEV;2024 BMW X5 xDrive50e M Sport G05 LCI Auto 4x4;149900;270 mins (0%-100% charge, 7.4kW charger);Unrated;101;26.4;;Waterloo
+Large SUV;PHEV;BMW XM;2024 BMW XM G09 Auto M xDrive;302200;270 mins (0%-100% charge, 7.4kW charger);Unrated;98;30.4;;Zetland
+Medium SUV;PHEV;BYD Sealion 6;2024 BYD SEALION 6 Dynamic Auto;48990;;5 star, 2023;92;16.9;;Zetland
+Medium SUV;PHEV;CUPRA Formentor PHEV;2024 CUPRA Formentor VZe Auto MY24;64990;;5 star, 2021;58;14.1;;Zetland
+Small Car;PHEV;CUPRA Leon PHEV;2024 CUPRA Leon VZe Auto MY24;61690;;5 star, 2020;67;11.3;;Zetland
+Sports Car;PHEV;Ferrari 296;2024 Ferrari 296 GTB Auto;604000;;Unrated;;;;Zetland
+Sports Car;PHEV;Ferrari SF90;2024 Ferrari SF90 Stradale Auto 4WD;;;Unrated;;;;Zetland
+Small SUV;PHEV;Jeep Compass PHEV;2024 Jeep Compass Limited 4xe Auto AWD MY24;61990;105 mins (0%-100% charge, 7.4 kW charger);Unrated;47;16.6;;Zetland
+Large SUV;PHEV;Jeep Grand Cherokee PHEV;2023 Jeep Grand Cherokee Summit Reserve 4xe Auto 4x4 MY23;110850;600 mins (0%-100% charge, 3kW charger);5 star, 2022;52;20.9;;Zetland
+Large SUV;PHEV;Kia Sorento PHEV;2024 Kia Sorento PHEV GT-Line Auto AWD MY25;84660;;5 star, 2020;68;16.1;;Zetland
+Large SUV;PHEV;Land Rover Defender PHEV;2024 Land Rover Defender 110 P400e X-Dynamic SE Auto AWD MY25;126800;;5 star, 2020;52;26.1;;Sydney
+Medium SUV;PHEV;Land Rover Discovery Sport PHEV;2024 Land Rover Discovery Sport P300e Dynamic SE Auto 4x4 MY25;101382;30 mins (0%-80% charge, 32kW charger);Unrated;;;;Sydney
+Medium SUV;PHEV;Land Rover Range Rover Evoque PHEV;2024 Land Rover Range Rover Evoque P300e Dynamic HSE Auto 4x4 MY25;106334;30 mins (0%-80% charge, 32kW charger);5 star, 2019;66;18.6;;Sydney
+Large SUV;PHEV;Land Rover Range Rover PHEV;2024 Land Rover Range Rover P460e Autobiography PHEV LWB Auto AWD MY25;262852;60 mins (0%-80% charge, 43kW charger);5 star, 2022;125;25.6;;Sydney
+Large SUV;PHEV;Land Rover Range Rover Sport PHEV;2024 Land Rover Range Rover Sport PHEV P460e Dynamic SE Auto AWD MY25;188716;40 mins (0%-80% charge, 43kW charger);5 star, 2022;125;25.6;;Sydney
+Large SUV;PHEV;Land Rover Range Rover Velar PHEV;2024 Land Rover Range Rover Velar PHEV P400e Dynamic SE Auto AWD MY25;131536;30 mins (0%-80% charge);Unrated;59;19.3;;Sydney
+Medium SUV;PHEV;Lexus NX PHEV;2024 Lexus NX NX450h+ F Sport Auto eFour;92882;150 mins (0%-100% charge, 32A charger);5 star, 2022;87;14;;Sydney
+Medium SUV;PHEV;Mazda CX-60 PHEV;2024 Mazda CX-50 P50e Evolve KH Series Auto i-ACTIV AWD;73600;90 mins (20%-80% charge, 7.2kW charger);5 star, 2023;76;14.8;;Pyrmont
+Large SUV;PHEV;Mazda CX-80 PHEV;2024 Mazda CX-80 P50e Touring KL Auto i-ACTIV AWD;75000;90 mins (20%-80% charge, 7.2kW charger);5 star, 2024;65;19.8;;Pyrmont
+Sports Car;PHEV;McLaren Artura PHEV;2024 McLaren Artura Auto MY25;495004;;Unrated;;;;Pyrmont
+Large Car;PHEV;Mercedes-AMG GT 4D PHEV;2024 Mercedes-Benz AMG GT 63 S E Performance Auto 4MATIC+;405300;;Unrated;14;12.1;;Pyrmont
+Medium Car;PHEV;Mercedes-Benz C-Class PHEV;2024 Mercedes-Benz C-Class C63 AMG S E Performance Auto 4MATIC+;190900;;Unrated;15;10.8;;Pyrmont
+Medium SUV;PHEV;Mercedes-Benz GLC-Class PHEV;2024 Mercedes-Benz GLC-Class GLC63 AMG S E PERFORMANCE Auto 4MATIC+;191814;;Unrated;14;9.8;;Pyrmont
+Small SUV;PHEV;Mitsubishi Eclipse Cross PHEV;2024 Mitsubishi Eclipse Cross PHEV ES YB Auto AWD MY24;47790;25 mins (recharge to 80%, 60A charger);Unrated;55;16.8;;Pyrmont
+Medium SUV;PHEV;Mitsubishi Outlander PHEV;2024 Mitsubishi Outlander PHEV ES ZM Auto AWD MY24;57290;38 mins (recharge to 80%, 60A charger);5 star, 2022;84;19.2;;Pyrmont
+Medium SUV;PHEV;Peugeot 408 PHEV;2023 Peugeot 408 GT Plug-In Hybrid Auto MY23;67990;210 mins (0%-100% charge, 11kW charger);Unrated;;;;Pyrmont
+Large SUV;PHEV;Porsche Cayenne PHEV;2024 Porsche Cayenne E-Hybrid 9YA II Auto 4x4 MY25;158700;;Unrated;42;20.9;;Pyrmont
+Large Car;PHEV;Porsche Panamera PHEV;2024 Porsche Panamera 4 E-Hybrid 972 Auto AWD MY25;268100;;Unrated;56;19.5;;Pyrmont
+Large SUV;PHEV;Volkswagen Touareg PHEV;2024 Volkswagen Touareg R RC Auto 4MOTION MY24;129990;;Unrated;51;21.1;;Rosebery
+Medium Car;PHEV;Volvo S60 PHEV;2024 Volvo S60 Recharge T8 Black Edition Auto AWD MY24;;300 mins (full charge, 3.6kW charger);Unrated;90;18.6;;Erskineville
+Medium SUV;PHEV;Volvo XC60 PHEV;2024 Volvo XC60 Recharge Plus T8 Plug-In Hybrid Auto AWD MY25;92390;300 mins (recharge to 100%, 3.6kW charger);Unrated;81;26.2;;Erskineville
+Large SUV;PHEV;Volvo XC90 PHEV;2024 Volvo XC90 Recharge Ultimate T8 Plug-In Hybrid Auto AWD MY24;128390;300 mins (recharge to 100%, 3.6kW charger);Unrated;77;26.7;;Erskineville
