@@ -1,7 +1,11 @@
 # EcoWatt-ETL
 EcoWatt ETL Implementation with Python and Azure Cloud, extracts raw CSV files from Azure Blob Storage, transforms them with Python / Pandas, and loads the cleansed, model‑driven tables into Azure SQL Database. A Streamlit dashboard then lets analysts drill into yearly KPIs, interactive charts and geospatial insights. One‑stop data pipeline for exploring how electric‑vehicle adoption, energy consumption and air‑quality interact across Sydney suburbs (2022‑2023).
 
+# Demo Videos
 
+[Streamlit](https://youtu.be/pHYRdykKIII)
+
+[PowerBi](https://www.youtube.com/watch?v=b73teYOlH7M)
 
 # To run the application locally, follow these steps:
 
